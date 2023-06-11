@@ -1,4 +1,4 @@
-# Eshop page
+# Eshop page BY Khushboo Kumari 
 
 Simple ecommerce website made with React Hooks and Redux.
 
